@@ -1,2 +1,2 @@
-gcc -O0
-clang -O0
+gcc -O3
+clang -O3
