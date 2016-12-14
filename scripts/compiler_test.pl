@@ -48,7 +48,7 @@ my $COMPILER_TIMEOUT = 120;
 my $PROG_TIMEOUT = 8;
 
 # extra options here
-my $CSMITH_USER_OPTIONS = " --bitfields --packed-struct --strict-float"; 
+my $CSMITH_USER_OPTIONS = " --bitfields --packed-struct --float --strict-float"; 
 
 ################# end user-configurable stuff ###################
 #################################################################
